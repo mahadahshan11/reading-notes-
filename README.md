@@ -5,12 +5,12 @@ these softwares have several features to help the developer such as, the code co
 every developer must use the text editor that comes with his/her own computer type. for example Mac use "Text Edit" and Windows use "Notepad".
 developes are adviced to download other text editors because the ones installed on your own computer don't have helping features. 
 before downloading any text editor, the developer must be aware of never to use any bold, italic, or underlined features while coidng. and to creat a file to store his/her website in with the approprite extension. 
-the developer must decide whether to use a Text ditor or an IDE (Integrated Development Enviroment).
-the fist only edit texts, however, the later have many other options like calender, to-do list and so on. 
-command line is a window inside the developer that allowes the developer to controle the computer from the inside.it manages the files on the computer and control thier paths, navigation. it can also remove files and changing the names of files through a text which the developer types with the desired commands.
+the developer must decide whether to use a Text ditor or an IDE (Integrated Development Envirnoment).
+the fist only edit texts, however, the later have many other options like calendar, to-do list and so on. 
+command line is a window inside the developer that allows the developer to controle the computer from the inside.it manages the files on the computer and control thier paths, navigation. it can also remove files and chang the names of files through a text which the developer types with the desired commands.
 the command line itself is containde of six lines.
 line 1 present the prompt, next we enter our command. 
 line 2-5 present the output of the command we just entered. 
 line 6 present the prompt again to close the command and start a new one. 
-these commands are typed inside the terminal right after whata's called "the bash".
+these commands are typed inside the terminal right after what's called "the bash".
 to navigate inside the terminal the developer will use shortcuts pwd, which tells us where we are. Is, the list of the contents of directory. cd, change directory. 
