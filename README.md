@@ -1,17 +1,20 @@
 # 102 course
 
+
 ![image](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202012/chris-ried-ieic5Tq8YMk-unsplas_1200x768.jpeg?bEhcYQAShJnLf0Mtu4JYq8YzICfhz2rB&size=770:433)
 
 
 
+# Tables of content:
 
 
-| Reads        | Links            |
-| -------------| -----------------|
-| Link2        |   Link2.md       |
-| Link1        | Link1.md         |
 
 
+
+|  Title  |   Read     |
+|---------|------------|
+| Link1   | Link1.md   |
+| Link2   | Link2.md   |
 
 
 
