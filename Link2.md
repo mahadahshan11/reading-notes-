@@ -1,5 +1,6 @@
-**welcome to my notes**
-# growth mindset 
+# welcome to my notes
+***growth mindset***
+ 
 ![image](https://media.istockphoto.com/photos/thoughtful-young-african-woman-brainstorming-picture-id1175309338?k=6&m=1175309338&s=612x612&w=0&h=PjnG5nFVW6he8FyxPd9d-yw_RjnQiSzSV3F8rBrQCAE=)
 
 growth mindist is a very important concept to grow and expand as an ambitious individual.
