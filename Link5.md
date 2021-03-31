@@ -63,7 +63,7 @@ The new HTML5 enable the developers to divide up the the differnt sections on th
 
 ## Some Examples of the New HTML5 Elements:
 | The Element                    | The Usage |
-|--------------------------------|-----------|
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ```<header>``` ```<\header>``` |the main header appearces at the top of the page and it is used to interduce the for  example the logo and the navigation bar and it can also used inside each section| 
 | ```<footer>``` ```<\footer>``` | The footer appears at the bottom of the page and it is used to interdues the liks to socail media and copy right information|
 | ```<nav>``` ```<\nav>``` |   The navigation is used to move between the different pages of the wedsite and it is also used to transfer the user to differnt links and websites|
