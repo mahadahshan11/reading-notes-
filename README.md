@@ -11,17 +11,12 @@
 
 
 
-| READ                                                    |   TITLE                                                     |
-|---------------------------------------------------------|----------------------------------------------------------|
-| Link1                                                   |[Text Editores](Link1)                                          |
-| Link2                                                   | [Growth Mindist](Link2)                                           |
-| Link3                                                   | [An Introduction to Git](Link3)                               | 
-|Link4                                                    |  [Markdown on GitHub](Link4)                                         |
-
-
-
-
-
+|READ   | TITLES                      |
+|------ |-----------------------------|
+|Link 1 |[Text Editores](Link1)       |
+|Link 2 |[Growth mindest](Link1)      |
+|Link 3 |[Introduction to Git](Link3) |
+|Link 4 |[Markdown on GitHuhb](Link4) |
 
 
 
