@@ -11,12 +11,12 @@
 
 
 
-|  Title  |   Read     |
-|---------|------------|
-| Link1   | Link1.md   |
-| Link2   | Link2.md   |
-| Link3   | Link3.md   | 
-|Link4    |  Link4.md  |
+| READ                                                    |   TITLE                                                     |
+|---------------------------------------------------------|----------------------------------------------------------|
+| Link1                                                   |[Text Editores](Link1)                                          |
+| Link2                                                   | [Growth Mindist](Link2)                                           |
+| Link3                                                   | [An Introduction to Git](Link3)                               | 
+|Link4                                                    |  [Markdown on GitHub](Link4)                                         |
 
 
 
@@ -31,7 +31,7 @@ Maha Al-Dahshan,
 
 Age: 26,
 
-lives in Amman,
+Lives in Amman,
 
 
 
