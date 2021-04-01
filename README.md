@@ -11,13 +11,14 @@
 
 
 
-|READ   | TITLES                      |
-|------ |-----------------------------|
-|Link 1 |[Text Editores](Link1)       |
-|Link 2 |[Growth mindest](Link1)      |
-|Link 3 |[Introduction to Git](Link3) |
-|Link 4 |[Markdown on GitHuhb](Link4) |
+|READ   | TITLES                                |
+|------ |---------------------------------------|
+|Link 1 |[Text Editores](Link1)                 |
+|Link 2 |[Growth mindest](Link1)                |
+|Link 3 |[Introduction to Git](Link3)           |
+|Link 4 |[Markdown on GitHuhb](Link4)           |
 |Link5  |[HTML5 Layout Elemnts and Rules](Link5)|
+|Link6  |[INTRODUCTION TO JAVASCRIPT](Link6)    |
 
 
 
