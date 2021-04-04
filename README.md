@@ -19,7 +19,7 @@
 |Link 4 |[Markdown on GitHuhb](Link4)           |
 |Link5  |[HTML5 Layout Elemnts and Rules](Link5)|
 |Link6  |[INTRODUCTION TO JAVASCRIPT](Link6)    |
-
+|Link7  |[Operators and Loops](Link7)           |
 
 
 
