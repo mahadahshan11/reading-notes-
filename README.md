@@ -20,7 +20,7 @@
 |Link5  |[HTML5 Layout Elemnts and Rules](Link5)|
 |Link6  |[INTRODUCTION TO JAVASCRIPT](Link6)    |
 |Link7  |[Operators and Loops](Link7)           |
-
+|Link8  | [Design web pages with CSS](Link8)    |
 
 
 Maha Al-Dahshan,
