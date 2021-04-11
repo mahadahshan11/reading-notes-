@@ -22,9 +22,10 @@
 * **
 
 # code 201 Reading Notes:
-|READ    |   TITLE           |
-|--------|-------------------|
-|class-01|[HTML/Js](class-01)|
+
+|READ      |       TITLE           |
+|----------|-----------------------|
+|class-01  |[HTML/Js](class-01)    |
 
 
 
