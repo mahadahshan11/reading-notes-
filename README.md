@@ -1,15 +1,12 @@
-# 102 course
+# Tables of content:
 
 
 ![image](https://akm-img-a-in.tosshub.com/indiatoday/images/story/202012/chris-ried-ieic5Tq8YMk-unsplas_1200x768.jpeg?bEhcYQAShJnLf0Mtu4JYq8YzICfhz2rB&size=770:433)
 
 
 
-# Tables of content:
 
-
-
-
+# code 102 Reading Notes:
 
 |READ   | TITLES                                |
 |------ |---------------------------------------|
@@ -22,7 +19,17 @@
 |Link7  |[Operators and Loops](Link7)           |
 |Link8  | [Design web pages with CSS](Link8)    |
 
+* **
 
+# code 201 Reading Notes:
+|READ    |   TITLE           |
+|--------|-------------------|
+|class-01|[HTML/Js](class-01)|
+
+
+
+
+* ** 
 Maha Al-Dahshan,
 
 Age: 26,
