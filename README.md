@@ -23,10 +23,11 @@
 
 # code 201 Reading Notes:
 
-|READ      |       TITLE                         |
-|----------|-------------------------------------|
-|class-01  |[HTML/Js](class-01)                  |
-|class-02  |[Basics of HTML, CSS & JS](class-02) |
+|READ      |       TITLE                                                       |
+|----------|-------------------------------------------------------------------|
+|class-01  |[HTML/Js](class-01)                                                |
+|class-02  |[Basics of HTML, CSS & JS](class-02)                               |
+|class-03  |[HTML Lists, Control Flow with JS, and the CSS Box Model](class-03)|
 
 
 
