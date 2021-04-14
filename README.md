@@ -29,6 +29,7 @@
 |class-02  |[Basics of HTML, CSS & JS](class-02)                               |
 |class-03  |[HTML Lists, Control Flow with JS, and the CSS Box Model](class-03)|
 |class-04  |[HTML Links, CSS Layout, JS Functions](class-04)                   |
+|class-05  |[Readings : Images, Color, Text](class-05)                         |
 
 
 
