@@ -31,7 +31,7 @@
 |class-04  |[HTML Links, CSS Layout, JS Functions](class-04)                   |
 |class-05  |[Readings : Images, Color, Text](class-05)                         |
 |class-07  |[Object-Oriented Programming, HTML Tables](class-07)               |
-
+|class-09  |[Forms and JS Events](class-09)                                    |
 
 * ** 
 Maha Al-Dahshan,
