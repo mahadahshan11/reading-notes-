@@ -32,6 +32,7 @@
 |class-05  |[Readings : Images, Color, Text](class-05)                         |
 |class-07  |[Object-Oriented Programming, HTML Tables](class-07)               |
 |class-09  |[Forms and JS Events](class-09)                                    |
+|class-10  | [Debugging](class-10)                                             |
 
 * ** 
 Maha Al-Dahshan,
