@@ -33,7 +33,7 @@
 |class-07  |[Object-Oriented Programming, HTML Tables](class-07)               |
 |class-09  |[Forms and JS Events](class-09)                                    |
 |class-10  | [Debugging](class-10)                                             |
-
+|class-11  | [Audio, Video, Images](class-11)                                  |
 * ** 
 Maha Al-Dahshan,
 
