@@ -23,17 +23,19 @@
 
 # code 201 Reading Notes:
 
-|READ      |       TITLE                                                       |
-|----------|-------------------------------------------------------------------|
-|class-01  |[HTML/Js](class-01)                                                |
-|class-02  |[Basics of HTML, CSS & JS](class-02)                               |
-|class-03  |[HTML Lists, Control Flow with JS, and the CSS Box Model](class-03)|
-|class-04  |[HTML Links, CSS Layout, JS Functions](class-04)                   |
-|class-05  |[Readings : Images, Color, Text](class-05)                         |
-|class-07  |[Object-Oriented Programming, HTML Tables](class-07)               |
-|class-09  |[Forms and JS Events](class-09)                                    |
-|class-10  | [Debugging](class-10)                                             |
-|class-11  | [Audio, Video, Images](class-11)                                  |
+|READ      |       TITLE                                                                   |
+|----------|-------------------------------------------------------------------------------|
+|class-01  |[HTML/Js](class-01)                                                            |
+|class-02  |[Basics of HTML, CSS & JS](class-02)                                           |
+|class-03  |[HTML Lists, Control Flow with JS, and the CSS Box Model](class-03)            |
+|class-04  |[HTML Links, CSS Layout, JS Functions](class-04)                               |
+|class-05  |[Readings : Images, Color, Text](class-05)                                     |
+|class-07  |[Object-Oriented Programming, HTML Tables](class-07)                           |
+|class-09  |[Forms and JS Events](class-09)                                                |
+|class-10  | [Debugging](class-10)                                                         |
+|class-11  | [Audio, Video, Images](class-11)                                              |
+|class-12  |[The Past, Present, and Future of Local Storage for Web Applications](class-12)|
+
 * ** 
 Maha Al-Dahshan,
 
