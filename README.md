@@ -32,9 +32,10 @@
 |class-05  |[Readings : Images, Color, Text](class-05)                                     |
 |class-07  |[Object-Oriented Programming, HTML Tables](class-07)                           |
 |class-09  |[Forms and JS Events](class-09)                                                |
-|class-10  | [Debugging](class-10)                                                         |
-|class-11  | [Audio, Video, Images](class-11)                                              |
-|class-12  |[The Past, Present, and Future of Local Storage for Web Applications](class-12)|
+|class-10  |[Debugging](class-10)                                                          |
+|class-11  |[Audio, Video, Images](class-11)                                               |
+|class-12  |[[Chart.js, Canvas](class-12)                                                  |
+|class-13  |[The Past, Present, and Future of Local Storage for Web Applications](class-13)|
 
 * ** 
 Maha Al-Dahshan,
